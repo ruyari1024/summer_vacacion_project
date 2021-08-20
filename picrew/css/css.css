@@ -1,0 +1,125 @@
+html,body {width:100%;  }
+body,div,ul,li{margin:0; padding:0;}
+ul,li {list-style:none;}
+
+/*tab css*/
+.tab{float:right; width:600px; height:500px;}
+.tabnav{font-size:0; width:600px; border:1px solid #ddd;}
+.tabnav li{display: inline-block;  height:46px; text-align:center; border-right:1px solid #ddd;}
+.tabnav li a.active:before{background:#7ea21e;}
+.tabnav li a.active{border-bottom:1.5px solid rgb(245, 173, 185);}
+.tabnav li a{ position:relative; display:block; background: #f8f8f8; color: #000; padding:0 18px; line-height:46px; text-decoration:none; font-size:16px;}
+.tabnav li a:hover,
+.tabnav li a.active{background:#fff; color:#eba176; }
+.tabcontent{padding: 20px; height:720px; border:1px solid #ddd; border-top:none;}
+
+header {
+    height: 75px;
+    padding: 1rem;
+    color: rgb(100, 82, 82);
+    background: #dde9f7;
+    font-weight: bold;
+    font-size: 190%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  .logo{
+      padding-top: 10;
+      
+  }
+  
+
+  .background__char {
+    width: 750px;
+    height: 810px;
+    background-color: rgb(255, 234, 228);
+    color: rgb(250, 207, 191);
+    position: absolute;
+    top: 11.8vh;
+    left: 1vw;
+  }
+  .button{
+    display:flex;
+    float: right;
+  }
+  .button_tab2{
+    display:flex;
+  }
+  .button_tab3{
+    display: flex;
+  }
+  .button_tab4{
+    display: flex;
+  }
+  .button_tab5{
+    display: flex;
+  }
+  .button_tab6{
+    display: flex;
+  }
+  .button_1{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 10px;
+  }
+  .button_2{
+   text-align: left;
+   margin: 20px;
+  }
+  .button_3{
+   /* display: flex; */
+   text-align: left;
+   margin: 20px;
+  }
+  .button_4{
+   /* display: flex; */
+   text-align: right;
+   margin-top: 20px;
+   margin-left: 10px;
+  }
+  .button_5{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 22px;
+  }
+  .button_6{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 25px;
+  }
+  .button_7{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 25px;
+  }
+  .button8{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 20px;
+  }
+  .button9{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 25px;
+  }
+  .button15{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 25px;
+  }
+  .button10{
+   /* display: flex; */
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 15px;
+  }
+ 
