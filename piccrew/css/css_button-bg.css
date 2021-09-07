@@ -1,0 +1,237 @@
+#btn{
+    background: url(../img/버튼/피부/피부1.png);
+}
+#btn2{
+    background: url(../img/버튼/피부/피부2.png);
+}
+#btn3{
+    background: url(../img/버튼/피부/피부3.png);
+}
+#btn4{
+    background: url(../img/버튼/피부/피부4.png);
+}
+#btn5{
+    background: url(../img/버튼/피부/피부5.png);
+}
+#btn6{
+    background: url(../img/버튼/앞머리/머리1-백발.png);
+}
+#btn7{
+    background: url(../img/버튼/앞머리/머리1-금발.png);
+}
+#btn8{
+    background: url(../img/버튼/앞머리/머리2-백발.png);
+}
+#btn9{
+    background: url(../img/버튼/앞머리/머리2-흑발.png);
+}
+#btn10{
+    background: url(../img/버튼/앞머리/머리2-금발.png);
+}
+#btn11{
+    background: url(../img/버튼/앞머리/머리3-백발.png);
+}
+#btn12{
+    background: url(../img/버튼/앞머리/머리3-금발.png);
+}
+#btn13{
+    background: url(../img/버튼/앞머리/머리4-백발.png);
+}
+#btn14{
+    background: url(../img/버튼/앞머리/머리4-금발.png);
+}
+#btn15{
+    background: url(../img/버튼/앞머리/머리5-백발.png);
+}
+#btn16{
+    background: url(../img/버튼/앞머리/머리5-금발.png);
+}
+#btn17{
+    background: url(../img/버튼/앞머리/머리6-백발.png);
+}
+#btn18{
+    background: url(../img/버튼/앞머리/머리6-금발.png);
+}
+#btn19{
+    background: url(../img/버튼/앞머리/머리7-백발.png);
+}
+#btn20{
+    background: url(../img/버튼/앞머리/머리7-금발.png);
+}
+#btn21{
+    background: url(../img/버튼/뒷머리/뒷1-백발.png);
+}
+#btn22{
+    background: url(../img/버튼/뒷머리/뒷1-금발.png);
+}
+#btn23{
+    background: url(../img/버튼/뒷머리/뒷2-백발.png);
+}
+#btn24{
+    background: url(../img/버튼/뒷머리/뒷2-금발.png);
+}
+#btn25{
+    background: url(../img/버튼/뒷머리/뒷3-백발.png);
+}
+#btn26{
+    background: url(../img/버튼/뒷머리/뒷3-금발.png);
+}
+#btn27{
+    background: url(../img/버튼/뒷머리/뒷4-백발.png);
+}
+#btn28{
+    background: url(../img/버튼/뒷머리/뒷4-금발.png);
+}
+#btn29{
+    background: url(../img/버튼/뒷머리/뒷5-백발.png);
+}
+#btn30{
+    background: url(../img/버튼/뒷머리/뒷5-금발.png);
+}
+#btn31{
+    background: url(../img/버튼/뒷머리/뒷6-백발.png);
+}
+#btn32{
+    background: url(../img/버튼/뒷머리/뒷6-금발.png);
+}
+#btn80{
+    background: url(../img/버튼/뒷머리/뒷6-흑발.png);
+}
+#btn33{
+    background: url(../img/버튼/뒷머리/뒷7-백발.png);
+}
+#btn34{
+    background: url(../img/버튼/뒷머리/뒷7-금발.png);
+}
+#btn35{
+    background: url(../img/버튼/묶음머리/묶1-백.png);
+}
+#btn36{
+    background: url(../img/버튼/묶음머리/묶1-금.png);
+}
+#btn37{
+    background: url(../img/버튼/묶음머리/묶2-백.png);
+}
+#btn38{
+    background: url(../img/버튼/묶음머리/묶2-금.png);
+}
+#btn39{
+    background: url(../img/버튼/묶음머리/묶3-백.png);
+}
+#btn40{
+    background: url(../img/버튼/묶음머리/묶3-금.png);
+}
+#btn81{
+    background: url(../img/버튼/묶음머리/묶3-흑.png);
+}
+#btn41{
+    background: url(../img/버튼/묶음머리/묶4-백.png);
+}
+#btn42{
+    background: url(../img/버튼/묶음머리/묶4-금.png);
+}
+#btn43{
+    background: url(../img/버튼/묶음머리/묶5-백.png);
+}
+#btn44{
+    background: url(../img/버튼/묶음머리/묶5-금.png);
+}
+#btn45{
+    background: url(../img/버튼/묶음머리/묶6-백.png);
+}
+#btn46{
+    background: url(../img/버튼/묶음머리/묶6-금.png);
+}
+#btn47{
+    background: url(../img/버튼/눈/눈1-보.png);
+}
+#btn48{
+    background: url(../img/버튼/눈/눈1-노.png);
+}
+#btn49{
+    background: url(../img/버튼/눈/눈1-빨.png);
+}
+#btn50{
+    background: url(../img/버튼/눈/눈1-초.png);
+}
+#btn51{
+    background: url(../img/버튼/눈/눈2-보.png);
+}
+#btn52{
+    background: url(../img/버튼/눈/눈2-노.png);
+}
+#btn53{
+    background: url(../img/버튼/눈/눈2-빨.png);
+}
+#btn100{
+    background: url(../img/버튼/눈/눈2-초.png);
+}
+#btn54{
+    background: url(../img/버튼/눈/감은눈.png);
+}
+#btn55{
+    background: url(../img/버튼/눈/눈3-보.png);
+}
+#btn56{
+    background: url(../img/버튼/눈/눈3-노.png);
+}
+#btn57{
+    background: url(../img/버튼/눈/눈3-빨.png);
+}
+#btn58{
+    background: url(../img/버튼/눈/눈3-초.png);
+}
+#btn59{
+    background: url(../img/버튼/머리장식/나비삔.png);
+}
+#btn60{
+    background: url(../img/버튼/머리장식/링.png);
+}
+#btn61{
+    background: url(../img/버튼/머리장식/마녀모자.png);
+}
+#btn62{
+    background: url(../img/버튼/머리장식/리본2.png);
+}
+#btn63{
+    background: url(../img/버튼/머리장식/리본1.png);
+}
+#btn64{
+    background: url(../img/버튼/머리장식/베레모.png);
+}
+#btn65{
+    background: url(../img/버튼/머리장식/서클릿.png);
+}
+#btn66{
+    background: url(../img/버튼/머리장식/월계관.png);
+}
+#btn67{
+    background: url(../img/버튼/머리장식/신사모.png);
+}
+#btn82{
+    background: url(../img/버튼/머리장식/별\ 끈.png);
+}
+#btn68{
+    background: url(../img/버튼/옷/목티.png);
+}
+#btn69{
+    background: url(../img/버튼/옷/셔츠.png);
+}
+#btn101{
+    background: url(../img/버튼/옷/티셔츠.png);
+}
+#btn70{
+    background: url(../img/버튼/옷/오프숄더-4.png);
+}
+#btn71{
+    background: url(../img/버튼/옷/오프숄더-3.png);
+}
+#btn72{
+    background: url(../img/버튼/옷/오프숄더-5.png);
+}
+#btn73{
+    background: url(../img/버튼/옷/오프숄더-2.png);
+}
+#btn74{
+    background: url(../img/버튼/옷/오프숄더-1.png);
+}
